@@ -1,4 +1,4 @@
-# detran_2017_2020
+# Limpeza e Exploração
 
 O Código está em .IPYNB(colab)
 
